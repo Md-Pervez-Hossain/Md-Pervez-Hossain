@@ -3,47 +3,6 @@
 <br />
 <br />
 
-### Apps Development
-
-- Flutter Framework - BLoC, GetX, MVVM
-- Native Android - Kotlin
-- Consume Rest API
-- Firebasae Push NOtification
-- Git version control
-- UI design with interactive animations
-
-### Game Development
-
-- Unreal Engine, Unity
-- Take a look at [Another FPS](https://tinyurl.com/anotherfps "Another FPS - GDrive")
-- Cinema4d, Sustance Painter
-
-<hr>
-
-- 🌱 Besides **Flutter Framework**, I'm currently learning **Bash Scripting**
-
-- 🎉 I'm looking to Collaborate on Flutter Projects
-
-- 📄 Know about my experiences **[Resume](https://docs.google.com/document/d/1Oo9vaNfM2w4szNoV1h4VMMM_6zkD5vYm/edit?usp=sharing&ouid=115217856295532767553&rtpof=true&sd=true "nabil-akhunjee-resume")**
-
-- 📫 Reach me **nbakh16@gmail.com**
-
-
-### Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/nbakh16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nbakh16" height="30" width="40" /></a>
-<a href="https://fb.com/nbakh16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nbakh16" height="30" width="40" /></a>
-</p>
-
-### Languages and Tools I utilize:
-
-[![My Skills: Proficient](https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin,firebase "Proficient")](https://skillicons.dev) :green_circle:Proficient
-
-[![My Skills: Intermediate](https://skillicons.dev/icons?i=html,css,bootstrap "Intermediate")](https://skillicons.dev) :green_circle:Intermediate
-
-[![My Skills: Average](https://skillicons.dev/icons?i=unity,unreal,cpp,cs,python,java "Average")](https://skillicons.dev) :green_circle:Average
-
-<hr>
 
 ### GitHub Profile Stats:
 
